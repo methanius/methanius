@@ -4,7 +4,7 @@
 - 👶 Tired and happy father of a boy of 6 months.
 - 🌱 I’m currently learning Rust and the functional and type-level approaches to data modelling, partially by also playing with Haskell, a lot by reading books and too little by programming right now due to 👶.
 - 🔬 Published author of 1! scientific articles:
-  *  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.052621> (or on arxiv under the same title)
+  *  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.052621> (or on arxiv under the same title)\
      The article involved learning Itô calculus, spending too much time optimizing my initial Python code and subsequently learning and transitioning to C++ for huge performance gains.
 - 📫 I'm reachable here, on LinkedIn by my given name and WhatsApp and messenger for my friends and family!
 - 😄 Pronouns: He/Him
